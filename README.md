@@ -1,26 +1,17 @@
-### Hi there 👋
-
-I'm a passionate developer focused on frontend, skilled in JavaScript, HTML, and CSS. 
-
+### Hi there 👋, Jess Alegria
+#### Design and Development
 I manage development environments with Linux and Docker, and build applications using Node.js and MySQL. Currently, I'm enhancing public transportation in Nicaragua and collaborating with Universus, innovating with artificial intelligence solutions.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessalegri&show_icons=true&theme=transparent)
+Skills: JS / HTML / CSS / NODE JS
+
+- 🔭 I’m currently working on Universus Tech 
+- 🌱 I’m currently learning JavaScript 
+- 📫 How to reach me: jess.alegriaa@gmail.com 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jessalegri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jespinozalegri//)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessalegri)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Jessalegri)  
 
-<!--
-**Jessalegri/Jessalegri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
