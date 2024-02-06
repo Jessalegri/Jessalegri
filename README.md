@@ -4,9 +4,6 @@ I'm a passionate developer focused on frontend, skilled in JavaScript, HTML, and
 
 I manage development environments with Linux and Docker, and build applications using Node.js and MySQL. Currently, I'm enhancing public transportation in Nicaragua and collaborating with Universus, innovating with artificial intelligence solutions.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessalegri
-)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessalegri&show_icons=true&theme=transparent)
 
 
